@@ -1,0 +1,8 @@
+{
+  "summary_features": {
+    "auroc": 0.9897119341563785
+  },
+  "transport_embedding": {
+    "auroc": 0.9944533905886563
+  }
+}
